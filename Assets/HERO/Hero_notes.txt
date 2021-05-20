@@ -1,0 +1,99 @@
+Hero - animated playable character
+
+v. 3.0
+Now asset contains only one FBX file with all general and battle animations.
+Rig structure was changed to fit Unity Mechanic requirements.
+7 more animations added.
+Character now Unity 4.3 pack.
+All custom shaders was replaced by Unity standard shaders.
+2 animation issues was fixed
+Crusader helmet added.
+Normals maps fixed
+Now it is Unity 5 asset with PBS materials.
+
+
+
+Low polygonal game ready animated model of Medieval Hero.
+
+This character includes 22 changeable parts: 
+1.up_leg armor, 2. belt, 3. boots, 4. coif, 5. cuirass, 
+6. gloves, 7. greaves, 8. helmet, 9. pendant, 10. right earning, 
+11. left earning, 12. knee armor, 13. rerebrace, 14. mail shirt, 
+15. shoulders armor, 16. vambrace, 17. hair, 18. mustache, 
+19. beard, 20. sword, 21. shield. Crusader helmet.
+
+All this parts can be used together with any combination except coif and hair, which need to be used separately. 
+But this is only exception.
+
+
+This character has 22 general and 31 fight (weapon and shield) animations, 53 animations at all.
+
+General Animation list:
+
+0) T-pose. : Zero frame
+
+1) hero_looking_around: 1 - 176 fr.,
+ 2) hero_Drinking: 177 - 232 fr.,
+ 3) hero_Eating: 233 - 353 fr.,
+ 4) hero_Explanation: 354 - 399 fr.,
+ 5) hero_boring: 400 - 525 fr.,
+ 6) hero_making_item: 526 - 556 fr.,
+ 7) hero_pick_object: 557 - 597 fr.,
+ 8) hero_salute: 598 - 658 fr.,
+ 9) hero_Say_No: 659 - 719 fr.,
+ 10) hero_Standing_Free: 720 - 820 fr.,
+ 11) hero_Talking: 821 - 866 fr.,
+ 12) hero_sit_down: 867 - 893 fr.,
+ 13) hero_sitting: 894 - 944 fr.,
+ 14) hero_came_up: 945 - 971 fr.,
+ 15) hero_Run: 976 - 998 fr.,
+ 16) hero_Climbing_ladder: 1003 - 1033 fr.,
+ 17) hero_Crouching: 1038 - 1138 fr.,
+ 18) hero_Sneaking: 1143 - 1193 fr.,
+ 19) hero_Swimming: 1198 - 1228 fr.,
+ 20) hero_walk: 1233 - 1278 fr.,
+ 21) hero_Jump_runing: 1283 - 1323 fr.,
+ 22) Hero_walking_back: 1328 - 1363 fr.,
+ 23) hero_War_COMBAT_MODE: 1368 - 1418 fr.,
+ 24) hero_War_backwards: 1419 - 1454 fr.,
+ 25) hero_War_below_high_swing: 1455 - 1490 fr.,
+ 26) hero_War_dodge_to_left: 1491 - 1526 fr.,
+ 27) hero_War_dodge_to_right: 1527 - 1562 fr.,
+ 28) hero_War_moving_left: 1563 - 1583 fr.,
+ 29) hero_War_moving_right: 1584 - 1604 fr.,
+ 30) hero_War_parry_from_stright_down: 1605 - 1640 fr.,
+ 31) hero_War_parry_front: 1641 - 1676 fr.,
+ 32) hero_War_shield_block: 1677 - 1717 fr.,
+ 33) hero_War_shield_blow: 1718 - 1753 fr.,
+ 34) hero_War_specal_attack_A: 1754 - 1794 fr.,
+ 35) hero_War_specal_attack_B: 1795 - 1840 fr.,
+ 36) hero_War_swing_high_straight_down: 1841 - 1876 fr.,
+ 37) hero_War_swing_left: 1877 - 1912 fr.,
+ 38) hero_War_swing_right: 1913 - 1948 fr.,
+ 39) hero_War_thrust_mid: 1949 - 1984 fr.,
+ 40) hero_War_taking_hit: 1985 - 2020 fr.,
+ 41) hero_ThrowingAxe_throwing: 2021 - 2056 fr.,
+ 42) hero_ThrowingSpear_throwing: 2057 - 2092 fr.,
+ 43) hero_War_Dying: 2097 - 2162 fr.,
+ 44) hero_War_charging: 2167 - 2189 fr.,
+ 45) hero_War_run_swing_left: 2194 - 2237 fr.,
+ 46) hero_War_run_swing_right: 2242 - 2285 fr.,
+ 47) hero_War_run_swing_up_down: 2290 - 2333 fr.,
+ 48) Hero_War_retreat: 2338 - 2373 fr.,
+49) hero_walk_trust: 2378 - 2413 fr.,
+50) hero_walk_right_swing: 2414 - 2449 fr.,
+51) hero_walk_left_swing: 2450 - 2485 fr.,
+52) hero_strafe_right: 2490 - 2524 fr.,
+53) hero_strafe_left: 2527 - 2561 fr.,
+
+
+
+Main body has 1,497 polygons, 2,837 triangles and 1,487 vertexes.
+Full model with armor parts and weapons has 4,108 polygons, 7,911 triangles  and 4,400 vertexes.
+Skeleton has 55 bones.
+
+Textures: diffuse, specular, and normals maps. 
+Textures are TIF file format 2048x248 - body, 1024x1024 and 512x512 - armor parts and weapons.
+
+
+male, character, fantasy, warrior, knight, man, armor, polygonal, video game, wow, rpg, mmo, soldier, military, fps, army, bow, medieval, king, royal, unity asset, mr-necturus, necturus, mr.necturus, playable
